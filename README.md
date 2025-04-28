@@ -32,3 +32,10 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord de Samuel">
   </a>
 </div>
+
+## GitHub status 📊:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4mu3l-Silv4&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mu3l-Silv4&layout=compact&theme=radical)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=S4mu3l-Silv4&theme=algolia)
