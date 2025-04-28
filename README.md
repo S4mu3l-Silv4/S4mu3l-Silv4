@@ -6,7 +6,7 @@
 - 🙋‍♂️ Pronomes: ele/dele;
 - ❤️ Fun fact: amante de tecnologia;
 
-## Tecnologias aprendidas:
+## Tecnologias aprendidas 🧠:
 <div style="display: inline_block">
   <img align="center" alt="Samuel-JavaScript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samuel-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Samuel-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Redes sociais:
+## Redes sociais 👤:
 <div>
   <a href="https://www.linkedin.com/in/samu3l-silva" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Samuel">
