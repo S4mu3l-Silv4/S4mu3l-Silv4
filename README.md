@@ -2,7 +2,7 @@
 
 - 👨‍💻 No momento trabalhando com front-end;
 - 📚 Hoje em dia estudando JavaScript;
-- 🙏🏻 Colaborando na Praxis Empresa Júnior;
+- 🙏🏻 Colaborando no Núcleo de TI da Praxis Empresa Júnior;
 - 🙋‍♂️ Pronomes: ele/dele;
 - ❤️ Fun fact: amante de tecnologia;
 
