@@ -14,8 +14,9 @@
   <img align="center" alt="Logo do CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logo do Git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Logo do GitHub" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Logo do VS Code" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Logo do Visual Studio Code" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Logo do Figma" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Logo do GIMP" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
 </div>
 
 ## Redes sociais 👤:
@@ -34,7 +35,7 @@
   </a>
 </div>
 
-## GitHub README Stats 📊:
+## GitHub Stats 📊:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mu3l-Silv4&layout=compact&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4mu3l-Silv4&show_icons=true&theme=radical)
