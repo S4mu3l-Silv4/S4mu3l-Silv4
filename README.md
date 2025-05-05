@@ -15,6 +15,7 @@
   <img align="center" alt="Logo do Git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Logo do GitHub" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Logo do Visual Studio Code" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Logo do Google Colab" height="40" width="60" src="https://raw.githubusercontent.com/MLH-Fellowship/MLH-Google-Colab-Logo/main/colab-icon.svg">
   <img align="center" alt="Logo do Figma" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Logo do GIMP" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
 </div>
