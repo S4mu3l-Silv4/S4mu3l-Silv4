@@ -1,6 +1,6 @@
 ## Olá, mundo! Eu sou Samuel 👋
 
-- 👨‍💻 Trabalhando com front-end;
+- 👨‍💻 Atualmente trabalhando com front-end;
 - 📚 Estudando JavaScript;
 - 🙏🏻 Colaborando na Praxis Empresa Júnior;
 - 🙋‍♂️ Pronomes: ele/dele;
