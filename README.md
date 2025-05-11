@@ -3,8 +3,14 @@
 - 👨‍💻 Atualmente trabalhando com front-end;
 - 📚 Estudando JavaScript;
 - 🙏🏻 Colaborando na Praxis Empresa Júnior;
-- 🙋‍♂️ Pronomes: ele/dele;
 - ❤️ Fun fact: amante de tecnologia;
+
+## GitHub Stats 📊:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mu3l-Silv4&layout=compact&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4mu3l-Silv4&show_icons=true&theme=radical)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=S4mu3l-Silv4&theme=radical&margin-h=20&margin-w=20)
 
 ## Tecnologias aprendidas 🧠:
 <div style="display: inline_block">
@@ -34,10 +40,3 @@
     <img height="30" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Samuel">
   </a>
 </div>
-
-## GitHub Stats 📊:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mu3l-Silv4&layout=compact&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4mu3l-Silv4&show_icons=true&theme=radical)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=S4mu3l-Silv4&theme=radical&margin-h=20&margin-w=20)
