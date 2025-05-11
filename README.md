@@ -1,9 +1,9 @@
 ## Olá, mundo! Eu sou Samuel 👋
 
-- 👨‍💻 Atualmente trabalhando com front-end;
+- 👨🏻‍💻 Atualmente trabalhando com front-end;
 - 📚 Estudando JavaScript;
 - 🙏🏻 Colaborando na Praxis Empresa Júnior;
-- ❤️ Fun fact: amante de tecnologia;
+- 🙋🏻 Fun fact: amante de tecnologia;
 
 ## GitHub Stats 📊:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mu3l-Silv4&layout=compact&theme=radical)
