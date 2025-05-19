@@ -1,8 +1,8 @@
 ## Olá, mundo! Eu sou Samuel 👋
 
 - 👨‍💻 Atualmente trabalhando com front-end;
-- 📚 Estudando JavaScript;
 - 🙏 Colaborando na Praxis Empresa Júnior;
+- 📚 Estudando JavaScript;
 - 🙋‍♂️ Fun fact: amante de tecnologia;
 
 ## GitHub Stats 📊:
