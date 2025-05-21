@@ -27,9 +27,6 @@
 
 ## Redes sociais 👤:
 <div>
-  <a href="mailto:samuelssone02@gmail.com" target="_blank" rel="external">
-    <img height="30" width="120" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail de Samuel">
-  </a>
   <a href="https://www.linkedin.com/in/samu3l-silva" target="_blank" rel="external">
     <img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Samuel">
   </a>
