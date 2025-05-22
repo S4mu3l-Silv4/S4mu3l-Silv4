@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente trabalhando com front-end;
 - 🙏 Colaborando na Praxis Empresa Júnior;
-- 📚 Estudando JavaScript;
+- 📚 Estudando desenvolvimento web;
 - 🙋‍♂️ Fun fact: amante de tecnologia;
 
 ## GitHub Stats 📊:
