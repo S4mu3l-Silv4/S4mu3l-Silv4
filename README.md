@@ -1,7 +1,7 @@
 ## Olá, mundo! Eu sou Samuel 👋
 
-- 👨‍💻 Atualmente trabalhando com front-end;
-- 🙏 Colaborando na Praxis Empresa Júnior;
+- 👨‍💻 Atualmente trabalhando como Estagiário de Controle / Suporte Operacional;
+- 🙏 Colaborando na Premcell;
 - 📚 Estudando redes de computadores;
 - 🙋‍♂️ Fun fact: amante de tecnologia;
 
