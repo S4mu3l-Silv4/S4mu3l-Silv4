@@ -1,7 +1,7 @@
 ## Olá, mundo! Eu sou Samuel 👋
 
 - 👨‍💻 Atualmente trabalhando como Estagiário de Controle / Suporte Operacional;
-- 🙏 Colaborando na Premcell - Consultoria em Telecomunicações;
+- 🙏 Colaborando na Premcell Global;
 - 📚 Estudando sistemas computacionais;
 - 🙋‍♂️ Fun fact: amante de tecnologia;
 
