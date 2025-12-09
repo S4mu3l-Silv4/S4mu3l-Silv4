@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente trabalhando como Estagiário de Controle / Suporte Operacional;
 - 🙏 Colaborando na Premcell Global;
-- 📚 Estudando HTML e CSS;
+- 📚 Estudando desenvolvimento front-end;
 - 🙋‍♂️ Fun fact: amante de tecnologia;
 
 ## GitHub Stats 📊:
