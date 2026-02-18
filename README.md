@@ -6,11 +6,11 @@
 - 🙋‍♂️ Fun fact: amante de tecnologia;
 
 ## GitHub Stats 📊:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4mu3l-Silv4&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S4mu3l-Silv4&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4mu3l-Silv4&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S4mu3l-Silv4&layout=compact&theme=radical)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=S4mu3l-Silv4&theme=radical&margin-h=20&margin-w=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=S4mu3l-Silv4&theme=radical)
 
 ## Tecnologias aprendidas 🧠:
 <div style="display: inline_block">
