@@ -2,7 +2,7 @@
 
 - 👨‍💻 Trabalhando como Estagiário de Controle / Suporte Operacional;
 - 🙏 Colaborando na Premcell Global;
-- 📚 Estudando Microsoft Excel;
+- 📚 Estudando React e Python;
 - 🙋‍♂️ Fun fact, amante de tecnologia;
 
 ## GitHub Stats 📊:
