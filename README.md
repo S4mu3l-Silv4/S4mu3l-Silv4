@@ -31,19 +31,19 @@
 <br><br><br>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@ll_kaywat_ll">
+  <a href="https://s4mu3l-silv4.github.io/projeto-portifolio/home.html">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://www.fixmyapple.org">
+  <a href="https://www.linkedin.com/in/samuel-silva-45b51926b/">
     <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://www.fixmyapple.org">
+  <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://www.fixmyapple.org">
+  <a href="https://wa.me/5571997234881">
     <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://www.fixmyapple.org">
+  <a href="https://www.instagram.com/s4muel_ss/">
     <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </p>
