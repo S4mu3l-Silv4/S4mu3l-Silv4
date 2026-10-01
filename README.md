@@ -3,7 +3,7 @@
 - 👨‍💻 Trabalhando como Estagiário de Controle / Suporte Operacional;
 - 🙏 Colaborando na Premcell Global;
 - 🙋‍♂️ Fun fact, amante de tecnologia;
-<br><br><br>
+<br><br><br><br><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Logo do HTML" width="40" height="40"/>
@@ -15,10 +15,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Logo do GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="Logo do GitHub" width="40" height="40"/>
 </p>
-<br><br>
+<br>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=itsKayWat&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="itsKayWat's streak"/>
+    <img src="https://streak-stats.demolab.com?user=S4mu3l-Silv4&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="GitHub Stats de Samuel Silva"/>
 </p>
 <br>
 
