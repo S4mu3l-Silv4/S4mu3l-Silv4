@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="Cobrinha dos commits"/>
 </p>
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://s4mu3l-silv4.github.io/projeto-portifolio/home.html">
