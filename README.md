@@ -28,11 +28,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="Cobrinha dos commits"/>
 </p>
-<br><br><br>
+<br><br>
 
 <p align="center">
   <a href="https://s4mu3l-silv4.github.io/projeto-portifolio/home.html">
-    <img src="https://img.shields.io/badge/Site Portfólio-0D47A1?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Site Portfólio-0000be?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/samuel-silva-45b51926b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
