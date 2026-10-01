@@ -28,3 +28,22 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="Cobrinha dos commits"/>
 </p>
+<br><br><br>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@ll_kaywat_ll">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.fixmyapple.org">
+    <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://www.fixmyapple.org">
+    <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://www.fixmyapple.org">
+    <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://www.fixmyapple.org">
+    <img src="https://img.shields.io/badge/FixMyApple-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
