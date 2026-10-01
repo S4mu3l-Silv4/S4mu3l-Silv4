@@ -17,10 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Logo do Git" width="40" height="40"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Logo do GitHub" width="40" height="40"/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Logo do VS Code" width="40" height="40"/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="Logo do GIMP" width="40" height="40"/>
 </p>
 <br>
 
